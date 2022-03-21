@@ -10,6 +10,9 @@ span {
 header {
   display: block;
 }
+body {
+  text-align: center;
+}
 /* 
   #one {
     background-color:lightblue;
